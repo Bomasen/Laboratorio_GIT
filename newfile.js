@@ -1,1 +1,1 @@
-console.log ("Esto es un archino de JS")
+console.log ("Esto es un cambio en el JS")
